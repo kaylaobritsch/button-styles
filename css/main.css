@@ -59,3 +59,7 @@ a {
 .btn-small {
   font-size: 0.875rem;
 }
+
+.btn-big {
+  font-size: 1.5rem;
+}
