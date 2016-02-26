@@ -16,6 +16,10 @@ a {
   text-decoration: none;
 }
 
+body {
+  margin: 0;
+}
+
 .btn {
   display: inline-block;
   color: #fff;
