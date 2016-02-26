@@ -16,17 +16,13 @@ a {
   text-decoration: none;
 }
 
-body {
-  margin: 0;
-}
-
 .btn {
   display: inline-block;
   color: #fff;
   background-color: #333;
   border-radius: 8px;
-  padding: 0.4em 0.75em 0.3em;
-  font-size: 1rem;
+  padding: 0.6em 0.75em 0.4em;
+  font-size: 1.10rem;
 }
 
 .btn:hover {
@@ -42,12 +38,12 @@ body {
 }
 
 .border {
-  border: 3px solid #000;
+  border: 2px solid #000;
 }
 
 .btn-ghost {
   background-color: white;
-  color: #000;
+  color: #333;
 }
 
 .btn-ghost:hover {
